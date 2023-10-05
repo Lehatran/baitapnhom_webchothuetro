@@ -1,6 +1,7 @@
 *{
   font-family: 'Quicksand', sans-serif;
   outline: 0;
+  box-sizing: border-box;
  }
  
  body
@@ -173,7 +174,8 @@
 {
   float: right;
   width: 29%;
-  max-height: 135px;;
+  max-height: 180px;
+  height: 180px;
   background-color: antiquewhite;
   box-shadow: 0 2px rgba(70,80,110,.3);
 }
